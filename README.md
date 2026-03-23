@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=PARAKRAM%20SINGH%20TOMAR&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=aka%20MY%20MISERABLE%20MIND%20%F0%9F%92%80&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=%F0%9F%92%80%20MY%20MISERABLE%20MIND%20%F0%9F%92%80&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=MYMISERABLEMIND17%20%7C%20Building%20in%20Public&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=GSoC+2026+Contributor+%F0%9F%8C%9F;Backend+Developer+%7C+Node.js+%2B+Django;Building+in+Public+%E2%80%94+Failures+Included+%F0%9F%92%80;Open+Source+%7C+DSA+%7C+Real+Projects;NIET+CSE+(IoT)+%7C+2nd+Year" alt="Typing SVG" />
 
