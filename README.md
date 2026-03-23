@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 Who Am I?
 
-> **2nd-year B.Tech CSE (IoT) student @ NIET, AKTU** — self-taught, under a year of real coding experience, and already contributing to **Google Summer of Code 2026** organizations.
+
 
 I document everything publicly — the wins, the wrong answers, the burnout. Because that's what real growth looks like.
 
