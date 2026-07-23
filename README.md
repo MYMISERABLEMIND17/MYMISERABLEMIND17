@@ -1,6 +1,6 @@
 <div align="center">
 
-# Parakram Singh Tomar
+# tomxdev
 
 ### Full-Stack Developer · AI Automation Builder · Solo Product Builder
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_my_work-D91E2C?style=for-the-badge&logo=vercel&logoColor=white)](https://tomarparakram.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-MYMISERABLEMIND17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MYMISERABLEMIND17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomxdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomxdev/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mymiserablemind17@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=MYMISERABLEMIND17&style=for-the-badge&color=D91E2C&label=PROFILE+VIEWS)](https://github.com/MYMISERABLEMIND17)
@@ -27,7 +27,7 @@ My focus is not adding AI to everything. It is finding repetitive work or a real
 - Creating automation systems with **n8n, Python, APIs, Ollama, and local LLMs**
 - Exploring self-hosted infrastructure using **Linux, Docker, PM2, and systemd**
 - Practising problem solving and data structures in **Java**
-- Pursuing a **B.Tech in Computer Science and Engineering (IoT)**
+- Pursuing a degree in **Computer Science and Engineering**
 
 I document what I build as **tomxdev**—including the architecture, mistakes, trade-offs, and lessons behind the finished result.
 
@@ -39,13 +39,13 @@ I document what I build as **tomxdev**—including the architecture, mistakes, t
 <tr>
 <td width="50%" valign="top">
 
-### PARAKRA
-A web-development and AI-automation studio for startups and small businesses.
+### Automation & Web Systems
+Practical systems for startups and small businesses, including websites, MVPs, internal tools, and workflow automation.
 
-**Focus:** websites, MVPs, workflow automation, and digital products  
+**Focus:** useful products, reliable integrations, and reducing repetitive work  
 **Stack:** Next.js · Node.js · n8n · PostgreSQL
 
-`Private build · In development`
+`Private builds · In development`
 
 </td>
 <td width="50%" valign="top">
@@ -67,8 +67,6 @@ A real-time social game platform built around shared sessions, interactions, and
 A collection of practical workflows, including an AI content engine, job-discovery pipeline, GitHub issue monitor, lead-generation utility, and brain-dump-to-Notion/Calendar system.
 
 **Stack:** n8n · Python · Ollama · LLM APIs · Notion APIs
-
-[View my work →](https://tomarparakram.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
