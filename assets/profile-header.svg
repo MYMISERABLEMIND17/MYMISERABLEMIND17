@@ -1,15 +1,44 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="300" fill="#F7F5F2"/>
-  <circle cx="1065" cy="74" r="84" fill="#D91E2C"/>
-  <path d="M956 300L1071 122L1200 300H956Z" fill="#0A0A0A"/>
-  <path d="M1027 300L1126 168L1200 300H1027Z" fill="#D91E2C" fill-opacity="0.88"/>
-  <path d="M0 250C168 222 282 258 445 247C584 238 662 201 808 218" stroke="#D91E2C" stroke-width="4" stroke-opacity="0.65"/>
-  <path d="M0 267C176 242 296 277 460 264C601 253 683 219 844 231" stroke="#D91E2C" stroke-width="1.5" stroke-opacity="0.35"/>
-  <line x1="72" y1="62" x2="72" y2="217" stroke="#D91E2C" stroke-width="5"/>
-  <text x="103" y="105" fill="#0A0A0A" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="2">TOMXDEV</text>
-  <text x="103" y="158" fill="#D91E2C" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" letter-spacing="1">AI AUTOMATIONS &amp; WEB PRODUCTS</text>
-  <text x="103" y="201" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="500">Next.js  •  Node.js  •  n8n  •  Local LLMs</text>
-  <text x="103" y="235" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="16">Build useful systems. Ship clearly. Improve in public.</text>
-  <line x1="905" y1="53" x2="1160" y2="53" stroke="#D91E2C" stroke-width="1" stroke-opacity="0.45"/>
-  <line x1="905" y1="92" x2="1160" y2="92" stroke="#D91E2C" stroke-width="1" stroke-opacity="0.35"/>
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="redGlow" x1="830" y1="40" x2="1180" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF3344"/>
+      <stop offset="1" stop-color="#8E0712"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#D91E2C" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="#050505"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect x="0" y="0" width="14" height="320" fill="#D91E2C"/>
+
+  <path d="M858 0H1200V320H973L858 0Z" fill="#0C0C0C"/>
+  <path d="M1018 0H1200V320H1115L1018 0Z" fill="url(#redGlow)"/>
+  <path d="M908 320L1036 96L1163 320H908Z" fill="#D91E2C" fill-opacity="0.78"/>
+  <path d="M1001 320L1102 162L1200 320H1001Z" fill="#050505"/>
+
+  <circle cx="1055" cy="79" r="58" fill="#D91E2C" fill-opacity="0.18" stroke="#D91E2C" stroke-width="2"/>
+  <circle cx="1055" cy="79" r="33" fill="#D91E2C" fill-opacity="0.1" stroke="#FF3344" stroke-width="1"/>
+  <line x1="1055" y1="10" x2="1055" y2="148" stroke="#FF3344" stroke-opacity="0.6"/>
+  <line x1="986" y1="79" x2="1124" y2="79" stroke="#FF3344" stroke-opacity="0.6"/>
+
+  <g filter="url(#shadow)">
+    <rect x="76" y="48" width="104" height="26" rx="2" fill="#D91E2C"/>
+    <text x="91" y="67" fill="#050505" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900" letter-spacing="2">BUILD MODE</text>
+  </g>
+
+  <text x="74" y="142" fill="#D91E2C" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" letter-spacing="3">TOMXDEV</text>
+  <text x="78" y="190" fill="#B7B7B7" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="1.4">AI AUTOMATIONS  /  WEB PRODUCTS</text>
+
+  <line x1="78" y1="218" x2="680" y2="218" stroke="#D91E2C" stroke-width="3"/>
+  <line x1="690" y1="218" x2="790" y2="218" stroke="#D91E2C" stroke-opacity="0.35" stroke-width="3"/>
+
+  <text x="78" y="257" fill="#777777" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">NEXT.JS   •   NODE.JS   •   N8N   •   LOCAL LLMS</text>
+  <text x="78" y="291" fill="#D91E2C" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="2">BUILD  /  AUTOMATE  /  DEPLOY  /  SHARE</text>
+
+  <text x="886" y="286" fill="#D91E2C" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800" letter-spacing="3">SYSTEMS OVER HYPE</text>
 </svg>
