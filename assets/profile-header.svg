@@ -1,0 +1,15 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#F7F5F2"/>
+  <circle cx="1065" cy="74" r="84" fill="#D91E2C"/>
+  <path d="M956 300L1071 122L1200 300H956Z" fill="#0A0A0A"/>
+  <path d="M1027 300L1126 168L1200 300H1027Z" fill="#D91E2C" fill-opacity="0.88"/>
+  <path d="M0 250C168 222 282 258 445 247C584 238 662 201 808 218" stroke="#D91E2C" stroke-width="4" stroke-opacity="0.65"/>
+  <path d="M0 267C176 242 296 277 460 264C601 253 683 219 844 231" stroke="#D91E2C" stroke-width="1.5" stroke-opacity="0.35"/>
+  <line x1="72" y1="62" x2="72" y2="217" stroke="#D91E2C" stroke-width="5"/>
+  <text x="103" y="105" fill="#0A0A0A" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="2">TOMXDEV</text>
+  <text x="103" y="158" fill="#D91E2C" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" letter-spacing="1">AI AUTOMATIONS &amp; WEB PRODUCTS</text>
+  <text x="103" y="201" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="500">Next.js  •  Node.js  •  n8n  •  Local LLMs</text>
+  <text x="103" y="235" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="16">Build useful systems. Ship clearly. Improve in public.</text>
+  <line x1="905" y1="53" x2="1160" y2="53" stroke="#D91E2C" stroke-width="1" stroke-opacity="0.45"/>
+  <line x1="905" y1="92" x2="1160" y2="92" stroke="#D91E2C" stroke-width="1" stroke-opacity="0.35"/>
+</svg>
