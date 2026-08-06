@@ -4,6 +4,7 @@
 
 <br/>
 
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-tomxdev-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=D91E2C)](https://www.linkedin.com/in/tomxdev/)
 [![Email](https://img.shields.io/badge/EMAIL-LET'S_TALK-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=D91E2C)](mailto:mymiserablemind17@gmail.com)
 [![Followers](https://img.shields.io/github/followers/MYMISERABLEMIND17?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=D91E2C&color=0A0A0A)](https://github.com/MYMISERABLEMIND17?tab=followers)
